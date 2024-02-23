@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --ff: "Work Sans", sans-serif;
+    --fw-title: 700px;
+    --fs-title: 50px;
+    --fs-title-questions: 20px
+    --fs-text: 16px;
+
+    --white: hsl(0, 0%, 100%);
+    --color-text: hsl(292, 16%, 49%);
+    --color-title: hsl(292, 42%, 14%);
+    --color-title-questions: hsl(292, 42%, 14%);
+    --color-link-footer: hsl(292, 46%, 65%);
+
+    --border-bottom: solid 1px hsl(275, 100%, 97%);
+
+    --bg: hsl(275, 100%, 97%);
+    --bg-footer: hsl(0, 0%, 100%);
+  }

@@ -1,0 +1,17 @@
+.footer {
+    background-color: var(--bg-footer);
+    color: var(--color-text);
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.footer a {
+    color: var(--color-link-footer);
+    text-decoration: none;
+}
